@@ -1,10 +1,10 @@
 # Team Project Name
 
 List of participants and affiliations:
-Cathy Dobbs - flex,
-Karla Fuller - writer,
-Natasha (Natalie) Minkovsky - leader,
-Lia Walker - resource specialist,
+Cathy Dobbs - flex,  
+Karla Fuller - writer,  
+Natasha (Natalie) Minkovsky - leader,  
+Lia Walker - resource specialist,  
 Kaitlin Bonner (St. Johh Fisher University) - resource specialist
 
 # Project Summary

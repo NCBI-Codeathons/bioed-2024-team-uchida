@@ -1,7 +1,7 @@
 # Team Project Name
 
 List of participants and affiliations:  
-Cathy Dobbs - flex,  
+Cathy Dobbs (Joliet Junior College)- flex,  
 Karla Fuller - writer,  
 Natasha (Natalie) Minkovsky (Community College of Baltimore County) - leader,  
 Lia Walker - resource specialist,  

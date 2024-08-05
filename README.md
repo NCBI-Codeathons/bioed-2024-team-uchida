@@ -2,7 +2,7 @@
 
 List of participants and affiliations:  
 Cathy Dobbs (Joliet Junior College)- flex,  
-Karla Fuller - writer,  
+Karla Fuller (Guttman Community College - CUNY)- writer,  
 Natasha (Natalie) Minkovsky (Community College of Baltimore County) - leader,  
 Lia Walker (Chowan University) - resource specialist,  
 Kaitlin Bonner (St. Johh Fisher University) - resource specialist

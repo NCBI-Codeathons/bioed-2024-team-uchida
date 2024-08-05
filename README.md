@@ -3,7 +3,7 @@
 List of participants and affiliations:  
 Cathy Dobbs - flex,  
 Karla Fuller - writer,  
-Natasha (Natalie) Minkovsky - leader,  
+Natasha (Natalie) Minkovsky (Community College of Baltimore County) - leader,  
 Lia Walker - resource specialist,  
 Kaitlin Bonner (St. Johh Fisher University) - resource specialist
 

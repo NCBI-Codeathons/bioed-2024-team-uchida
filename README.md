@@ -1,6 +1,6 @@
 # Team Project Name
 
-List of participants and affiliations:
+List of participants and affiliations:  
 Cathy Dobbs - flex,  
 Karla Fuller - writer,  
 Natasha (Natalie) Minkovsky - leader,  

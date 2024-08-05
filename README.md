@@ -1,11 +1,11 @@
 # Team Project Name
 
 List of participants and affiliations:
-Cathy Dobbs,
-Karla Fuller,
-Natasha (Natalie) Minkovsky,
-Lia Walker,
-Kaitlin Bonner (St. Johh Fisher University)
+Cathy Dobbs - flex,
+Karla Fuller - writer,
+Natasha (Natalie) Minkovsky - leader,
+Lia Walker - resource specialist,
+Kaitlin Bonner (St. Johh Fisher University) - resource specialist
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.

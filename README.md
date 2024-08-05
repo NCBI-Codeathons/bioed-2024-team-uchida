@@ -1,10 +1,10 @@
 # Team Project Name
 
 List of participants and affiliations:
-Cathy Dobbs
-Karla Fuller
-Natasha (Natalie) Minkovsky
-Lia Walker
+Cathy Dobbs,
+Karla Fuller,
+Natasha (Natalie) Minkovsky,
+Lia Walker,
 Kaitlin Bonner (St. Johh Fisher University)
 
 # Project Summary

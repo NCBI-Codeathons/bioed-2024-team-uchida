@@ -9,7 +9,7 @@ List of participants and affiliations:
 
 # Target Audience
 This activity is appropriate for introductory genetics college students (adaptable for more advance study or related course topics like Physiology, Microbiology, etc)
-
+.
 # Project Summary
 The goal of this activity is for students to understand that most human phenotypes are controlled by genes at multiple loci. Students will use NCBI databases to explore gene variants implicated in Type 2 Diabetes and evaluate gene characteristics such as pathogenicity, type of mutation, 3D structures, to understand the clinical significance of mutations. Although this activity is designed for Type 2 Diabetes, it can easily be adapted to other diseases/phenotypes.
 

@@ -1,4 +1,4 @@
-# Team Project Name
+# Team Uchida
 
 List of participants and affiliations:  
 - Cathy Dobbs (Joliet Junior College)- flex  

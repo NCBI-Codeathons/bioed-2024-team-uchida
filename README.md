@@ -5,7 +5,7 @@ List of participants and affiliations:
 - Karla Fuller (Guttman Community College - CUNY)- writer  
 - Natasha (Natalie) Minkovsky (Community College of Baltimore County) - team leader  
 - Lia Walker (Chowan University) - resource specialist  
-- Kaitlin Bonner (St. Johh Fisher University) - resource specialist
+- Kaitlin Bonner (St. John Fisher University) - resource specialist
 
 # Project Summary
 Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.

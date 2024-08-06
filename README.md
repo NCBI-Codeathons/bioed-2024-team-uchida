@@ -7,8 +7,13 @@ List of participants and affiliations:
 - Lia Walker (Chowan University) - resource specialist  
 - Kaitlin Bonner (St. John Fisher University) - resource specialist
 
+# Target Audience
+This activity is appropriate for introductory college-level genetics
+
 # Project Summary
-Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
+The purpose of this activity is for students to understand that most human phenotypes are controlled by genes at multiple loci.
+Project Summary:
+We want students, given the disease to explore the gene variants that are associated with the disease phenotype; or, given a set of genes to explore which disease a group of genes might contribute to.
 
 # Curricular Package Details
 List the specific learning goals students will achieve with this curriculum.

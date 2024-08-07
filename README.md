@@ -24,6 +24,8 @@ By the end of this activity, students will be able to:
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
 
+Here is a link to our draft [Google Drive Folder](https://drive.google.com/drive/folders/1-Ei2s2P8MfyhbwFiWv-oYe3jBxWY5xAj?usp=sharing).
+
 ## Assessments
 Explain how student learning will be evaluated (e.g., quizzes, assignments, projects).
 
